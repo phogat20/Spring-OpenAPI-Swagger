@@ -1,0 +1,15 @@
+# The springfox-swagger2 dependency provides the necessary annotations and tools to generate the OpenAPI specification.
+
+<dependency>
+    <groupId>io.springfox</groupId>
+    <artifactId>springfox-swagger2</artifactId>
+    <version>2.9.2</version>
+</dependency>
+
+# The springfox-swagger-ui dependency provides the Swagger UI user interface, which displays the generated documentation in a web page.
+
+<dependency>
+    <groupId>io.springfox</groupId>
+    <artifactId>springfox-swagger-ui</artifactId>
+    <version>2.9.2</version>
+</dependency>
