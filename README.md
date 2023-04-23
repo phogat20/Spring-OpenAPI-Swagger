@@ -30,3 +30,18 @@ https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmv
 - Ensure consistency and adherence to best practices in API design
 - Make it easier for developers to understand and use your API
 - Provide a user-friendly interface for testing and exploring your API
+
+- If you want more customization options or need to support more advanced use cases, you should still create a Docket bean and configure it according to your needs.
+
+# There are several other options that you can configure when using OpenAPI and Swagger in Spring with SpringFox.
+
+Some of the most commonly used options include:
+
+- Customizing the base path of the API endpoints
+- Specifying which HTTP methods to include in the generated documentation
+- Adding global parameters to all endpoints
+- Specifying custom response messages for specific HTTP status codes
+- Securing your API documentation with basic authentication or OAuth2
+
+
+   
