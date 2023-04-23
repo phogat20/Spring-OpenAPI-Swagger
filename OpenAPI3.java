@@ -29,3 +29,8 @@ public class OpenApiConfig {
                         .version("1.0.0"));
     }
 }
+
+
+// - @EnableOpenApi annotation to enable OpenAPI support in the Spring Boot application. 
+// - We define a customOpenAPI bean to specify the metadata for our API (title, description, and version), and a customOpenApi bean to group and filter the API 
+//   endpoints.
