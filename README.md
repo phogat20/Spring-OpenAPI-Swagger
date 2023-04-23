@@ -9,3 +9,6 @@ springdoc-openapi-starter-webmvc-ui
 
 ![image](https://user-images.githubusercontent.com/84695818/233820731-2542b818-9196-48fa-aef6-a23e8ab060cd.png)
 
+# Dependency Link
+
+https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui/2.1.0
